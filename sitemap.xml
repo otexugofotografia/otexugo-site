@@ -1,34 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
     <loc>https://www.otexugo.net/</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-
   <url>
-    <loc>https://www.otexugo.net/about</loc>
+    <loc>https://www.otexugo.net/#sobre</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://www.otexugo.net/portfolio</loc>
+    <loc>https://www.otexugo.net/#portfolio</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://www.otexugo.net/reviews</loc>
-    <priority>0.6</priority>
+    <loc>https://www.otexugo.net/#testemunhos</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://www.otexugo.net/blog</loc>
-    <priority>0.6</priority>
+    <loc>https://www.otexugo.net/#blog</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://www.otexugo.net/contact</loc>
-    <priority>0.9</priority>
+    <loc>https://www.otexugo.net/#contacto</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
-
 </urlset>
